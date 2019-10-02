@@ -30,3 +30,7 @@
 
 - InfluxDB
 - grafana
+
+## 持續性整合與發佈 (Continuous Integration / Continuous Delivery)
+
+- [jenkins](https://jenkins.io/zh/)
