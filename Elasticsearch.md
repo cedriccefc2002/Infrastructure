@@ -9,6 +9,7 @@
 
 - 資料目錄：/home/cefc/Data/Docker/Elasticsearch/db/
 - 網路：elk-network
+- name：elasticsearch 其他服務連接用
 
 ```sh
 datapath="/home/cefc/Data/Docker/Elasticsearch/db/"
